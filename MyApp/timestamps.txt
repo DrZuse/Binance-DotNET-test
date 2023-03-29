@@ -1,0 +1,13 @@
+
+api.binance.com
+before NewOrder code 1680067802944 8:30:02.944
+POST 1680067802957 8:30:02.957
+"transactTime" 1680067803449 8:30:03.449
+after NewOrder code 1680067803466 8:30:03.466
+
+api2.binance.com
+
+before NewOrder code 1680068388220 8:39:48.220
+POST 1680068388233 8:39:48.233
+"transactTime" 1680068388718 8:39:48.718
+after NewOrder code 1680068388734 8:39:48.734
